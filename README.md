@@ -1,0 +1,1 @@
+Project to web scrap leaguepedia and get data from league of legends championships, from all regions
